@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nemonemoname,Korean 13 years old.
+- 👋 Hi, I’m @nemonemoname, 13-year-old Korean
 - 🤔I'm just programming some UNuseful things in python 😈😈
 - 🌎I'm polyglot who speaks Korean, English, Spanish, German, and a little Russian 💀💀💀
 
